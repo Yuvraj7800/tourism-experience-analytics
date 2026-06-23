@@ -3,7 +3,7 @@
 
 A complete end-to-end Machine Learning project that analyzes **52,930 tourism transactions** across **33,530 users** to predict attraction ratings, classify visitor behavior, and generate personalized attraction recommendations — deployed as an interactive Streamlit web app.
 
-🔗 **Live App:** _Add your Streamlit Cloud link here after deployment_
+🔗 **Live App:** https://tourism-experience-analytics-phdnm9hmrnmezayjcgypsv.streamlit.app/
 
 ---
 
